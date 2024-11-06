@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geometry", "Geometry\Geometry.csproj", "{FFC9EC90-4305-4B00-8BB1-D06F997E8526}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype", "Prototype\Prototype.csproj", "{99F09CFA-7A8F-4C20-8BF4-EE83543D5867}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{721206D0-5D5E-4923-AFE5-E3A78D3A7FA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFC9EC90-4305-4B00-8BB1-D06F997E8526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC9EC90-4305-4B00-8BB1-D06F997E8526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC9EC90-4305-4B00-8BB1-D06F997E8526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC9EC90-4305-4B00-8BB1-D06F997E8526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F09CFA-7A8F-4C20-8BF4-EE83543D5867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F09CFA-7A8F-4C20-8BF4-EE83543D5867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F09CFA-7A8F-4C20-8BF4-EE83543D5867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F09CFA-7A8F-4C20-8BF4-EE83543D5867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721206D0-5D5E-4923-AFE5-E3A78D3A7FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721206D0-5D5E-4923-AFE5-E3A78D3A7FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721206D0-5D5E-4923-AFE5-E3A78D3A7FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721206D0-5D5E-4923-AFE5-E3A78D3A7FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ADE723B-FCF0-4968-897C-BD01F263F393}
+	EndGlobalSection
+EndGlobal
